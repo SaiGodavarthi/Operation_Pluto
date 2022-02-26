@@ -10,12 +10,12 @@ var asteriod_img, asteriod_img2
 var asteriodGroup,asteriodGroup2
 
 function preload(){
-    bg1 = loadImage("/Images/bg1.jfif")
-    bg2 = loadImage("/Images/background.jpg")
-    rocket1_img = loadImage("/Images/Red_rocket.png")
-    rocket2_img = loadImage("/Images/Blue_rocket.png")
-    asteriod_img = loadImage("/Images/Asteriod.png")
-    asteriod_img2 = loadImage("/Images/Asteriod2.png")
+    bg1 = loadImage("./Images/bg1.jfif")
+    bg2 = loadImage("./Images/background.jpg")
+    rocket1_img = loadImage("./Images/Red_rocket.png")
+    rocket2_img = loadImage("./Images/Blue_rocket.png")
+    asteriod_img = loadImage("./Images/Asteriod.png")
+    asteriod_img2 = loadImage("./Images/Asteriod2.png")
 }
 
 function setup(){
